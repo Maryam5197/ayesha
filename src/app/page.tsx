@@ -8,7 +8,7 @@ const Page = () => {
         {/* ✅ Using Next.js <Image /> instead of <img> */}
         <Image
           className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto"
-          src="/modern-ecommerce-interface.png"
+          src="/ai-powered-ecommerce-dashboard-with-product-recomm (1).png"
           alt="Ecommerce Interface"
           width={384}
           height={512}
